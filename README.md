@@ -40,7 +40,7 @@ LOW LEVEL REQUIREMENT:
 DESIGN:
 HIGH LEVEL DESIGN:
  
-![Alt Text](https://github.com/vishalroshanJ/TEAM7_OPERATIONAL_CALCULATOR/blob/main/lowlevel.png)
+![Alt Text](https://github.com/vishalroshanJ/TEAM7_OPERATIONAL_CALCULATOR/blob/main/highlevel.PNG)
 
 LOW LEVEL DESIGN:
 
