@@ -55,13 +55,14 @@ HIGH LEVEL DESIGN:
 LOW LEVEL DESIGN:
  
 TEST PLAN  
+
 Test Cases
 Positive test cases:
 
-
-
+![Alt Text](https://github.com/vishalroshanJ/TEAM7_OPERATIONAL_CALCULATOR/blob/main/positive.PNG)
 
 Negative Test Cases:
+
 ![Alt Text](https://github.com/vishalroshanJ/TEAM7_OPERATIONAL_CALCULATOR/blob/main/negative.PNG)
 
 
