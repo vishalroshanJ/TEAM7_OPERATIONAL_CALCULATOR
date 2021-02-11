@@ -40,23 +40,16 @@ LOW LEVEL REQUIREMENT:
 DESIGN:
 HIGH LEVEL DESIGN:
  
-
-
-
-
-
-
-
-
-
-
-
+![Alt Text](https://github.com/vishalroshanJ/TEAM7_OPERATIONAL_CALCULATOR/blob/main/lowlevel.png)
 
 LOW LEVEL DESIGN:
+
+![Alt Text](https://github.com/vishalroshanJ/TEAM7_OPERATIONAL_CALCULATOR/blob/main/lowlevel.png)
  
 TEST PLAN  
 
 Test Cases
+
 Positive test cases:
 
 ![Alt Text](https://github.com/vishalroshanJ/TEAM7_OPERATIONAL_CALCULATOR/blob/main/positive.PNG)
