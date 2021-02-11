@@ -24,21 +24,7 @@ It is used to perform calculation from basic arithmetic to complex mathematical 
 
 SWOT ANALYSIS:
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![Alt Text](https://github.com/vishalroshanJ/TEAM7_OPERATIONAL_CALCULATOR/blob/main/swot.PNG)
 
 HIGH LEVEL REQUIREMENT:
 1)	Basic operations (ADDITION, SUBTRACTION, DIVISION, MULTIPLICATION)
@@ -50,8 +36,6 @@ LOW LEVEL REQUIREMENT:
 1)	Should contain minimum capacity to perform operations.
 2)	windows is required.
 3)	c compiler is required.           
-
-
 
 DESIGN:
 HIGH LEVEL DESIGN:
