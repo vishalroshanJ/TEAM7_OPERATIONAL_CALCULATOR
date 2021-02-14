@@ -29,6 +29,7 @@ It is used to perform calculation from basic arithmetic to complex mathematical 
 ![Alt Text](https://github.com/vishalroshanJ/TEAM7_OPERATIONAL_CALCULATOR/blob/main/swot.PNG)
 
                                                 
+                                                
                                                 HIGH LEVEL REQUIREMENT:
 1)	Basic operations (ADDITION, SUBTRACTION, DIVISION, MULTIPLICATION)
 2)	Trigonometric operations (SINE, COS, TAN, SEC, COT, COSEC).
